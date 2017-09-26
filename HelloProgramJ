@@ -1,0 +1,19 @@
+class HelloWorld{
+
+ //hello world in Java 8.0
+    
+    
+    
+    void print(){
+        System.out.println("Hello world");
+      }
+  
+ public static void main(String args[]){
+ 
+ 
+    HelloWorld hw=new HelloWorld();
+    
+    hw.print();
+    
+    }
+}  
